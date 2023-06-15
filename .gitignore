@@ -1,0 +1,22 @@
+.DS_Store
+*node_modules/*
+node_modules/
+*dist/
+*npm-debug.log*
+*yarn-debug.log*
+*yarn-error.log*
+*coverage
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+/coverage/
+output
+package-lock.json
+junit.xml
+lerna-debug.log
+.husky
